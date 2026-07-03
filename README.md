@@ -1,13 +1,23 @@
-# agrimil-prototype
-Official technical repository for AgriMIL: A digital MIL-based platform... [tu descripción anterior]
+# AgriMIL: Digital Empowerment for Smallholder Farmers
 
-## Mission
-AgriMIL empowers smallholder farmers to access, analyze, and use information to avoid exploitation by middlemen[cite: 1].
+[![Project Status: Prototype](https://img.shields.io/badge/Status-Prototype-yellow)]() 
+[![UNESCO Hackathon 2026](https://img.shields.io/badge/Event-UNESCO_Hackathon_2026-blue)]()
 
-## Technical Scope
-* **Access**: Real-time market prices and agricultural weather alerts[cite: 1].
-* **Analysis**: Seasonal price trends and logistics performance reports[cite: 1].
-* **Use**: Informed selling decisions and harvest planning[cite: 1].
+## 🚀 Mission
+AgriMIL is a digital platform designed to break the cycle of exploitation by middlemen. We empower smallholder farmers by providing real-time data, logistics insights, and verifiable agricultural information to ensure fair trade and sustainable livelihoods.
 
-## Prototype Status
-Currently in development for the UNESCO 2026 Hackathon, integrating data from the Agri Stock Supply Chain cold-chain logistics network in Guinea[cite: 1].
+## 🛠 Technical Scope
+The platform architecture focuses on three core pillars:
+*   **Access**: Real-time agricultural weather alerts and live market price streaming.
+*   **Analysis**: AI-driven seasonal price trend forecasting and logistics performance reporting.
+*   **Use**: Data-backed selling decisions and precision harvest planning.
+
+## 📂 Repository Structure
+- `/src`: Core application logic and MIL (Market Information and Logistics) module development.
+- `/docs`: Technical documentation, project proposals, and research references.
+
+## 📈 Status
+- **Phase**: MVP Prototype Development
+- **Next Steps**: Integrating pilot data from the Guinea project to validate predictive models.
+
+
